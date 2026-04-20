@@ -52,3 +52,11 @@ A API conta atualmente com as seguintes rotas:
 | `POST`   | `/tasks`           | Cria e salva uma nova tarefa (Requer `{ "title": ... }`). |
 | `PUT`    | `/tasks/{task_id}` | Atualiza uma tarefa pelo seu ID marcando-a como concluída. |
 | `DELETE` | `/tasks/{task_id}` | Deleta definitivamente uma tarefa pelo seu ID.         |
+
+
+## 🌐 Deploy na Render
+
+A aplicação foi deployada na plataforma **Render**.
+
+- **Link da API:** https://task-manager-api-bgsn.onrender.com
+- **Documentação (Swagger UI):** https://task-manager-api-bgsn.onrender.com/docs
